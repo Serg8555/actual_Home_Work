@@ -1,0 +1,15 @@
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\bin\Debug\net6.0\Task_64.exe
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\bin\Debug\net6.0\Task_64.deps.json
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\bin\Debug\net6.0\Task_64.runtimeconfig.json
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\bin\Debug\net6.0\Task_64.dll
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\bin\Debug\net6.0\Task_64.pdb
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.csproj.AssemblyReference.cache
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.AssemblyInfoInputs.cache
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.AssemblyInfo.cs
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.csproj.CoreCompileInputs.cache
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.dll
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\refint\Task_64.dll
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.pdb
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\Task_64.genruntimeconfig.cache
+C:\Users\serg8\OneDrive\Desktop\GB_Education_to_GIT\C_Sharp_starting\HW_Tasks_64_66_68\Task_64\obj\Debug\net6.0\ref\Task_64.dll
